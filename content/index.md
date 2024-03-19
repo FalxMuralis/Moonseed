@@ -1,6 +1,18 @@
 ---
-title: Welcome to Quartz
+title: Rules
 ---
+![[Deck]]
+![[Waffenkarten (Waffen)]]
+![[Aktionen]]
+![[Runen]]
+![[Combos]]
+![[Combo-Karten]]
+![[Gesundheit]]
+![[Energie]]
+![[Friedhof]]
+![[Vergessen]]
+![[Zug]]
+![[Runde]]
+![[Karten ziehen]]
+![[Handkarten]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.

@@ -1,1 +1,1 @@
-1. Man kann immer 2 Karten ziehen, aus welchem Deck ist egal.
+1. Man kann immer 2 Karten ziehen, aus welchem [[Deck]] ist egal.
