@@ -1,0 +1,1 @@
+1. Man hat ein Maximum von 8 Handkarten, alle überschüssigen Karten müssen abgeworfen werden.

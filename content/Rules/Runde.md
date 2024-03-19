@@ -1,0 +1,1 @@
+1. Eine Runde umfasst deinen Zug und den des Gegners.
