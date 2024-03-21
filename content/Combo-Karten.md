@@ -4,7 +4,3 @@
 3. Jede Combo-Karte hat [[Runen]], die zeigen, in welchen Comboslots diese Karte gespielt werden darf.
 4. Jede Combo-Karte hat einen Regeltext, der beschreibt, was sie genau macht.
 5. Wenn eine Combo-Karte gespielt wird, landet sie auf dem Combo-Stapel der aktuellen Aktion.
-   
-   
-   
-## Jan ist ein Idiot ← lol
