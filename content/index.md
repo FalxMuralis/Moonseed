@@ -1,18 +1,7 @@
 ---
-title: Rules
+title: Moonseed
 ---
-![[Deck]]
-![[Waffenkarten (Waffen)]]
-![[Aktionen]]
-![[Runen]]
-![[Combos]]
-![[Combo-Karten]]
-![[Gesundheit]]
-![[Energie]]
-![[Friedhof]]
-![[Vergessen]]
-![[Zug]]
-![[Runde]]
-![[Karten ziehen]]
-![[Handkarten]]
+Willkommen zu Moonseed, einem Kartenspiel Projekt von Jan².
 
+# Inhaltsverzeichnis
+- [[Regeln]]
