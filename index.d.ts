@@ -1,6 +1,6 @@
 declare module "*.scss" {
   const content: string
-  export = content
+  export = Moonseed
 }
 
 // dom custom event
